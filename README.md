@@ -3,7 +3,7 @@
 ![LangChain](https://img.shields.io/badge/LangChain-Enabled-green)
 ![OpenAI](https://img.shields.io/badge/OpenAI-Optimized-6e56cf?logo=openai)
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)
-![License](https://img.shields.io/github/license/yourusername/text-to-audio-streamlit)
+![License](https://img.shields.io/badge/License-MIT-green.svg?style=flat) [MIT](https://github.com/farrimoh/text-to-audio/blob/main/LICENSE)
 
 
 # Text-to-Audio Converter 🎧
