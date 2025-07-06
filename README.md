@@ -1,3 +1,11 @@
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=flat&logo=streamlit&logoColor=white)
+![Azure Cognitive Services](https://img.shields.io/badge/Azure_TTS-Supported-blue?logo=microsoft-azure)
+![LangChain](https://img.shields.io/badge/LangChain-Enabled-green)
+![OpenAI](https://img.shields.io/badge/OpenAI-Optimized-6e56cf?logo=openai)
+![Python](https://img.shields.io/badge/Python-3.9%2B-blue.svg?logo=python&logoColor=white)
+![License](https://img.shields.io/github/license/yourusername/text-to-audio-streamlit)
+
+
 # Text-to-Audio Converter 🎧
 
 Easily turn any text, PDF, or web article into high-quality audio files you can listen to while walking, driving, or on the go.
